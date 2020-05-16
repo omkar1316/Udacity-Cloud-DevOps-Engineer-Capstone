@@ -3,7 +3,7 @@
 ## About Project: 
 
 > CI/CD pipeline for a basic website that deploys to a cluster in AWS EKS which is Blue/Green Deployment.
-github link:https://github.com/omkar1316/udacity-devops-capstone-master
+github link:https://github.com/omkar1316/Udacity-Cloud-DevOps-Engineer-Capstone
 
 
 ## Project Requirement:
